@@ -17,8 +17,8 @@
       </div>
       <!-- Auth Links -->
       <div class="space-x-4">
-        <a href="#" class="text-blue-600 hover:underline">Login</a>
-        <a href="#" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Register</a>
+        <a href="login" class="text-blue-600 hover:underline">Login</a>
+        <a href="register" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Register</a>
       </div>
     </div>
   </header>
